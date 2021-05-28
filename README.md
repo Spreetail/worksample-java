@@ -6,5 +6,6 @@ A basic Java console app built with Gradle.
 
 ### Building and Running
 Mac: `./gradlew build run -q --console=plain`
+
 Windows `gradlew build run -q --console=plain`
 
